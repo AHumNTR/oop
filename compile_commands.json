@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/local/gcc-15.0.1/bin/g++15",
+      "-c",
+      "-std=gnu++26",
+      "-fmodules",
+      "-I",
+      "include",
+      "-o",
+      "bin/build.exe",
+      "src/main.cpp"
+    ],
+    "directory": "/home/humn/oop",
+    "file": "/home/humn/oop/src/main.cpp",
+    "output": "/home/humn/oop/bin/build.exe"
+  }
+]
